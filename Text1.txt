@@ -1,1 +1,6 @@
 Text 1 is here
+Я поправил текст в ветке myBranch
+Правка2
+Правка3
+Dasha wyhaha
+
